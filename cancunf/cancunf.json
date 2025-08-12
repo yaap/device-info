@@ -1,0 +1,9 @@
+{
+  "name": "Motorola moto G54 5G",
+  "maintainer": "cyberknight777 & sarthakroy2002",
+  "status": "Active",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/knightschat",
+  "image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g54-1.jpg"
+}
