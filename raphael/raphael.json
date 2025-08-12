@@ -1,0 +1,9 @@
+{
+  "name": "Xiaomi Mi 9T Pro",
+  "maintainer": "kondors1995",
+  "status": "Active",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/sovietunnion",
+  "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9t-0.jpg"
+}
