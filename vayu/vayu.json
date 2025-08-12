@@ -1,0 +1,9 @@
+{
+  "name": "Poco X3 Pro",
+  "maintainer": "grepfox",
+  "status": "Active",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/grepfox_chat",
+  "image": "https://wiki.lineageos.org/images/devices/vayu.png"
+}
