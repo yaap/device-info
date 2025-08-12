@@ -1,0 +1,9 @@
+{
+  "name": "OnePlus 7 Pro",
+  "maintainer": "Ido Ben-Hur",
+  "status": "Active",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/yaapop7",
+  "image": "https://wiki.lineageos.org/images/devices/guacamole.png"
+}
