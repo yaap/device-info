@@ -1,6 +1,6 @@
 {
   "name": "OnePlus 12",
-  "maintainer": "@RealJohnGalt",
+  "maintainer": "Ido Ben-Hur & John Galt",
   "status": "Active",
   "ota-branch": "full-signed-1",
   "ota-branch-vanilla": "vanilla-signed-1",
