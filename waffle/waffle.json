@@ -1,0 +1,9 @@
+{
+  "name": "OnePlus 12",
+  "maintainer": "@RealJohnGalt",
+  "status": "Active",
+  "ota-branch": "full-signed-1",
+  "ota-branch-vanilla": "vanilla-signed-1",
+  "group": "https://t.me/yaapop12",
+  "image": "https://image01.oneplus.net/media/202405/28/e2566b9853071dbb7fe9306713bbe51f.png"
+}
