@@ -1,0 +1,9 @@
+{
+  "name": "Google Pixel 7",
+  "maintainer": "sidharthify",
+  "status": "Active",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/yaappantah",
+  "image": "https://wiki.lineageos.org/images/devices/panther.png"
+}
