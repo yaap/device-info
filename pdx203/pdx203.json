@@ -1,0 +1,10 @@
+{
+  "name": "Sony Xperia 1 II",
+  "maintainer": "ahnet-69",
+  "status": "Active",
+  "tg_id": "ahnet_h",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/ahnetsdiscussion",
+  "image": "https://gsm-img.gishan.cc/112151/9.jpg"
+}

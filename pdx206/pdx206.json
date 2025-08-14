@@ -1,0 +1,10 @@
+{
+  "name": "Sony Xperia 5 II",
+  "maintainer": "ahnet-69",
+  "status": "Active",
+  "tg_id": "ahnet_h",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/ahnetsdiscussion",
+  "image": "https://wiki.lineageos.org/images/devices/pdx206.png"
+}
