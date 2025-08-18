@@ -12,6 +12,6 @@
 3. Reboot system
 
 # <u>Notes</u>
-1. <strong>Always use YAAP recovery for formatting data to avoid issues or use `fastboot -w`</strong>
+1. <strong>Always use YAAP recovery for formatting data to avoid issues</strong>
 2. Use miui 14.0.x firmware
 3. Rom is EROFS
