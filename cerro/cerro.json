@@ -1,0 +1,9 @@
+{
+  "name": "Nubia Z60 Ultra",
+  "maintainer": "IgorCh",
+  "status": "Active",
+  "ota-branch": "full-signed",
+  "ota-branch-vanilla": "vanilla-signed",
+  "group": "https://t.me/yaapnz60u",
+  "image": "https://www.nubia.com/content/dam/zte-devices/global/products/smartphones/nubia/nubia-z60-ultra-leading-version/nubiaZ60U-LV-front.png"
+}
